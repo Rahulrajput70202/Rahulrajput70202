@@ -1,6 +1,11 @@
 # 💫 About Me:
-🧑‍💻 I’m currently working on<br><br>Cybersecurity tools & Java desktop apps<br><br>🤝 I’m looking to collaborate on<br><br>Python automation & security projects<br><br>🙋‍♂️ I’m looking for help with<br><br>Improving APK analysis & detection<br><br>🌱 I’m currently learning<br><br>Malware analysis & advanced SQL<br><br>💬 Ask me about<br><br>Cybersecurity, Java, Python, MySQL<br><br>⚡ Fun fact<br><br>Gym + Code = My daily routine 💪😄
-
+🧑‍💻 I’m currently working on Java Backend applications using Spring Boot, REST APIs & MySQL 
+🤝 I’m looking to collaborate on  Java Backend, Open Source, and Security-focused projects
+🙋‍♂️ I’m looking for help with  System Design, Microservices, Spring Security & Cloud Deployment
+🌱 I’m currently learning Spring Boot • Hibernate/JPA • Spring Security • Docker • System Design • AWS
+💬 Ask me about Java • Spring Boot • REST APIs • MySQL • Git • Cybersecurity Fundamentals
+🎯 Career Goal Become a Backend Software Engineer while building expertise in Secure Software Development
+⚡ Fun fact Gym + Coffee + Java = My daily routine ☕💪
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/pawanrajput.pawanrajput.1422?rdid=DlN98aeys4mWKjU6&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1JZ4daiBBC#) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rahul_rajput_vll/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-bainade-919985327/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulrajput79800@gmail.com) 
