@@ -1,29 +1,94 @@
-# 💫 About Me:
-🧑‍💻 I’m currently working on Java Backend applications using Spring Boot, REST APIs & MySQL 
-🤝 I’m looking to collaborate on  Java Backend, Open Source, and Security-focused projects
-🙋‍♂️ I’m looking for help with  System Design, Microservices, Spring Security & Cloud Deployment
-🌱 I’m currently learning Spring Boot • Hibernate/JPA • Spring Security • Docker • System Design • AWS
-💬 Ask me about Java • Spring Boot • REST APIs • MySQL • Git • Cybersecurity Fundamentals
-🎯 Career Goal Become a Backend Software Engineer while building expertise in Secure Software Development
-⚡ Fun fact Gym + Coffee + Java = My daily routine ☕💪
+# 👋 Hi, I'm Rahul Bainade
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/pawanrajput.pawanrajput.1422?rdid=DlN98aeys4mWKjU6&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1JZ4daiBBC#) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rahul_rajput_vll/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-bainade-919985327/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulrajput79800@gmail.com) 
+### 💻 Full Stack Java Developer | Backend-Focused | Spring Boot | AI & RAG
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rahulrajput70202&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rahulrajput70202&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulrajput70202&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a **Full Stack Java Developer** focused on building **scalable, secure, and intelligent web applications** using Java and the Spring ecosystem.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+I enjoy working on backend architecture, REST APIs, authentication, databases, and AI-powered applications. Currently, I'm deepening my skills in **Spring Boot, Spring Security, Spring AI, Hibernate/JPA, PostgreSQL, system design, AWS, and Docker**.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rahulrajput70202&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🚀 What I Build
+
+* ☕ **Java & Spring Boot** backend applications
+* 🌐 **RESTful APIs** and CRUD-based applications
+* 🔐 Secure applications using **Spring Security & JWT**
+* 🗄️ Database-driven applications with **PostgreSQL & MySQL**
+* 🤖 **AI-powered applications using Spring AI, Ollama & RAG**
+* 🔎 **Semantic search & vector search** using embeddings and pgvector
+* 📄 PDF processing and document-based applications
+* 🎨 Responsive web interfaces using **HTML, CSS & JavaScript**
+
+### 🧠 Featured Project
+
+**Resume Matcher — RAG-Powered Application**
+
+A full-stack application that combines **traditional keyword matching with semantic search** to analyze resumes against job descriptions using embeddings, vector search, and RAG technologies.
+
+**Tech:** Java • Spring Boot • Spring Security • Spring AI • PostgreSQL • pgvector • Ollama • JWT • Apache PDFBox • HTML/CSS/JavaScript
+
+### 📚 Currently Learning
+
+* Spring Boot & Advanced Spring
+* Spring Security
+* Spring AI & RAG
+* Microservices
+* System Design
+* Docker & Containerization
+* AWS Cloud
+* Database & API Design
+* Data Structures & Algorithms
+
+### 🎯 Career Goal
+
+To become a strong **Backend/Full Stack Java Engineer** capable of designing and developing **secure, scalable, and intelligent software systems**.
+
+I'm open to collaborating on **Java, Spring Boot, AI, Open Source, and backend-focused projects**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rahulrajput70202&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+**Languages**
+
+Java • SQL • JavaScript • HTML5 • CSS3
+
+**Backend**
+
+Spring Boot • Spring Security • Spring AI • Hibernate/JPA • JDBC • REST APIs • JWT • MVC • CRUD
+
+**AI & RAG**
+
+Spring AI • Ollama • Embeddings • RAG • Semantic Search • Vector Search • pgvector
+
+**Databases**
+
+PostgreSQL • MySQL • H2
+
+**Cloud & Tools**
+
+AWS EC2 • AWS S3 • Git • GitHub • Maven • Postman • IntelliJ IDEA • Jira
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Rahulrajput70202\&theme=tokyonight\&hide_border=false\&include_all_commits=false\&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Rahulrajput70202\&theme=tokyonight\&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulrajput70202\&theme=tokyonight\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rahul-bainade/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rahulrajput79800@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=firefox\&logoColor=white)](https://rahulbainade.netlify.app)
+
+---
+
+### ⚡ Developer Motto
+
+> **Build. Learn. Solve. Improve.**
+
+☕ Coffee + 💻 Code + 🏋️ Gym = ⚡
